@@ -1,0 +1,90 @@
+body , html{
+    height : 100%;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(235, 160, 160);
+}
+nav li{
+    display: inline;
+    margin: 20px;
+
+}
+nav ul{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+    padding: 20px;
+}
+
+nav{
+    
+    display: block;
+    color: white
+   
+}
+nav a{
+    color: #fdefc0;
+    text-decoration: none;
+    
+}
+nav a:hover{
+    color: rgb(0, 0, 0);
+}
+
+#name{
+
+    color: rgb(0, 0, 0);
+    size-adjust: 50px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+
+
+}
+#main{
+    margin: 0;
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    height: 100;
+    display: flex;
+   
+}
+#firstart{
+    color: rgb(0, 0, 0);
+    padding-right: 400px;
+    padding-bottom: 1px;
+    margin: 0;
+    color: white;
+    
+}
+#side{
+ border: 2px solid rgb(80, 0, 0);
+ float: right;
+ text-align: center;
+ padding-left: 0px;
+ list-style-type: none;
+ color: white;
+}
+#whycoding{
+    color: white;
+    padding-right: 400px;
+}
+#j25{
+    text-align: center;
+    size-adjust: 50;
+    padding: left 50px; ;
+    margin: 50px;
+}
+#sideart{
+order: 2px solid rgb(80, 0, 0); 
+color: white;
+text-align: right;
+text-align: center;
+}
